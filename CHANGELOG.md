@@ -1,5 +1,7 @@
 # Changelog
 
+## [3.1.0](https://github.com/actionhippie/kustomize/compare/v3.0.1...v3.1.0) (2025-12-08)
+
 ## [3.0.1](https://github.com/actionhippie/kustomize/compare/v3.0.0...v3.0.1) (2025-12-01)
 
 ## [3.0.0](https://github.com/actionhippie/kustomize/compare/v2.16.0...v3.0.0) (2025-11-17)
