@@ -1,5 +1,37 @@
 # Changelog
 
+## [3.2.1](https://github.com/actionhippie/kustomize/compare/v3.2.0...v3.2.1) (2026-02-02)
+
+### Dependencies
+
+* **patch:** update alpine:3.23 docker digest to 2510918 ([#145](https://github.com/actionhippie/kustomize/issues/145)) ([7acf01b](https://github.com/actionhippie/kustomize/commit/7acf01bdea9ca62b0c817712014654b9ebfcda38))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([4bb2d7a](https://github.com/actionhippie/kustomize/commit/4bb2d7ab3b26c8a9f181b8d11cbf6084b0614393))
+
+## [3.2.0](https://github.com/actionhippie/kustomize/compare/v3.1.5...v3.2.0) (2026-01-26)
+
+### Dependencies
+
+* **minor:** update dependency helm/helm to v4.1.0 ([#144](https://github.com/actionhippie/kustomize/issues/144)) ([131787f](https://github.com/actionhippie/kustomize/commit/131787fa03f1a02b481cf11e9fa8cd331b8382c9))
+
+## [3.1.5](https://github.com/actionhippie/kustomize/compare/v3.1.4...v3.1.5) (2026-01-19)
+
+### Bugfixes
+
+* always add a v prefix to image refs on release ([04b5b71](https://github.com/actionhippie/kustomize/commit/04b5b712761c4063f8278c214e6651f151f0cba0))
+
+### Miscellaneous
+
+* use correct categories for releaserc to fix changelog ([0c78ade](https://github.com/actionhippie/kustomize/commit/0c78ade20cde1e333534927a0ac7b5faf68391e8))
+
+## [3.1.4](https://github.com/actionhippie/kustomize/compare/v3.1.3...v3.1.4) (2026-01-19)
+
+### Bugfixes
+
+* resolve missing quote in action config ([f9f6c0e](https://github.com/actionhippie/kustomize/commit/f9f6c0e39f166b431bd091406b47070ccdb9290b))
+
 ## [3.1.3](https://github.com/actionhippie/kustomize/compare/v3.1.2...v3.1.3) (2026-01-19)
 
 ## [3.1.2](https://github.com/actionhippie/kustomize/compare/v3.1.1...v3.1.2) (2025-12-22)
