@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.5.0](https://github.com/actionhippie/kustomize/compare/v3.4.0...v3.5.0) (2026-06-15)
+
+### Dependencies
+
+* **minor:** update alpine docker tag to v3.24 ([#161](https://github.com/actionhippie/kustomize/issues/161)) ([16f3f7a](https://github.com/actionhippie/kustomize/commit/16f3f7a11e8f7a46718d18551364396cefe1aedf))
+* **patch:** update dependency helm/helm to v4.2.1 ([#164](https://github.com/actionhippie/kustomize/issues/164)) ([68ca974](https://github.com/actionhippie/kustomize/commit/68ca974e0e843ac04bf232eb9af4046c268151cb))
+* **patch:** update docker digests ([06a8b24](https://github.com/actionhippie/kustomize/commit/06a8b24b587504f46ca48343310983a7b58a0960))
+* **patch:** update docker digests ([#162](https://github.com/actionhippie/kustomize/issues/162)) ([7003375](https://github.com/actionhippie/kustomize/commit/7003375895a681ca15f14168a012eec06d4c100d))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([bf880ef](https://github.com/actionhippie/kustomize/commit/bf880efea2ac4006501519ebd5b708a948957ce8))
+* **flake:** updated lockfile [skip ci] ([e8bedeb](https://github.com/actionhippie/kustomize/commit/e8bedebea40b2ad509bb589fc5ded9db13251a91))
+* **flake:** updated lockfile [skip ci] ([aba346d](https://github.com/actionhippie/kustomize/commit/aba346dfda1223635bf0a9c502c28ea4fa86099e))
+* **flake:** updated lockfile [skip ci] ([ea57399](https://github.com/actionhippie/kustomize/commit/ea573995b4a658c9750eadedd5cdc0a638367b3b))
+
 ## [3.4.0](https://github.com/actionhippie/kustomize/compare/v3.3.1...v3.4.0) (2026-05-18)
 
 ### Dependencies
