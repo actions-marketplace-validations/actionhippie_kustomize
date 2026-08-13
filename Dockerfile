@@ -4,7 +4,7 @@ FROM alpine:3.24@sha256:28bd5fe8b56d1bd048e5babf5b10710ebe0bae67db86916198a6eec4
 ENV KUSTOMIZE_VERSION=5.8.1
 
 # renovate: datasource=github-releases depName=helm/helm
-ENV HELM_VERSION=4.2.3
+ENV HELM_VERSION=4.2.4
 
 # renovate: datasource=github-releases depName=viaduct-ai/kustomize-sops
 ENV KSOPS_VERSION=4.5.1
@@ -35,7 +35,7 @@ RUN apk add --no-cache curl
 ENV KUSTOMIZE_VERSION=5.8.1
 
 # renovate: datasource=github-releases depName=helm/helm
-ENV HELM_VERSION=4.2.3
+ENV HELM_VERSION=4.2.4
 
 # renovate: datasource=github-releases depName=viaduct-ai/kustomize-sops
 ENV KSOPS_VERSION=4.5.1
