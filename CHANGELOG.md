@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.5.2](https://github.com/actionhippie/kustomize/compare/v3.5.1...v3.5.2) (2026-07-13)
+
+## [3.5.1](https://github.com/actionhippie/kustomize/compare/v3.5.0...v3.5.1) (2026-06-22)
+
+### Dependencies
+
+* **patch:** update dependency helm/helm to v4.2.2 ([#167](https://github.com/actionhippie/kustomize/issues/167)) ([91bbdbf](https://github.com/actionhippie/kustomize/commit/91bbdbf350cdd0a12fef202f14ae0763cffc5156))
+* **patch:** update docker digests ([#165](https://github.com/actionhippie/kustomize/issues/165)) ([464a171](https://github.com/actionhippie/kustomize/commit/464a171fe4061db76f4aaf8fc2f2f888c306f144))
+* **patch:** update docker digests ([#166](https://github.com/actionhippie/kustomize/issues/166)) ([8508d12](https://github.com/actionhippie/kustomize/commit/8508d127bb18cc6d1551fe66d4b3c3199c798f3e))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([4f12acb](https://github.com/actionhippie/kustomize/commit/4f12acb8d1b0102e5c57dff59d3b823f66047a99))
+
 ## [3.5.0](https://github.com/actionhippie/kustomize/compare/v3.4.0...v3.5.0) (2026-06-15)
 
 ### Dependencies
